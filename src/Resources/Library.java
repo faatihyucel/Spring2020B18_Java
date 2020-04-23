@@ -18,7 +18,7 @@ public class Library {
 
     }
 
-    public static String Reverse(String str){
+    public static String Reverse(String str){  // can reverse a string and returns string
         String Reverse = "";
 
         for(int i = str.length()-1; i >= 0; i-- ){
@@ -27,6 +27,16 @@ public class Library {
 
         return  Reverse;
     }
+
+    // remove duplicates from string
+
+    // Frequency of string
+
+    // merge two array and return third one
+
+    // max number from array
+
+    // min number from array
 
     public static String RemoveDuplicates(String str){
         String result =  "";      //AB
@@ -41,6 +51,8 @@ public class Library {
 
         return result;
     }
+
+
     public static int Frequency(String str1, String str2){
         int count = 0 ;
         while(str1.contains(str2)){
@@ -50,7 +62,6 @@ public class Library {
         }
         return count;
     }
-
 
 
     public static String FrequencyOfChars(String str){
@@ -66,9 +77,30 @@ public class Library {
         return result;
     }
 
+    public static int Frequency(String str, char ch){ // counts the ch' frequency
+        char[] arr =  str.toCharArray(); // [A, B, B]
 
+        int count = 0; //1
+        for(char each  : arr ){ //3   each: A , B, B
+            if(each == ch){
+                count++;
+            }
+        }
 
+        return count;
+    }
 
+    public static String uniques(String str){ // "AABCDCD"
+        String result = ""; //ACD
+        for(int i=0; i < str.length(); i++){
+            int num = Frequency(str, str.charAt(i) );
+            if( num == 1){
+                result += str.charAt(i);
+            }
+        }
+
+        return result;
+    }
 
 
 
