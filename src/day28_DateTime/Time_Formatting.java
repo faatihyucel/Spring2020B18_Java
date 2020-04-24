@@ -20,7 +20,5 @@ public class Time_Formatting {
         boolean result1 = time1.isAfter(time2);
         System.out.println(result1);
 
-    }
 
-
-}
+}}
