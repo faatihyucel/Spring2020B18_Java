@@ -2,32 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e90e8854-04a5-4dc1-a89d-b3232a24411a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_04_22_2020/ClassNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_04_22_2020/methodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_04_22_2020/return_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_04_22_2020/return_Statement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_04_22_2020/return_method2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_04_22_2020/void_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_DateTime/Dates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_DateTime/Dates_Formatting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_DateTime/Find_Minimum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27_DateTime/unique_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/OfficeHours/Practice_04_22_2020/ClassNote.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/OfficeHours/Practice_04_22_2020/methodOverloading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/OfficeHours/Practice_04_22_2020/return_Method.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/OfficeHours/Practice_04_22_2020/return_Statement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/OfficeHours/Practice_04_22_2020/return_method2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/OfficeHours/Practice_04_22_2020/void_Method.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day27_DateTime/Dates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day27_DateTime/Dates_Formatting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day27_DateTime/Find_Minimum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day27_DateTime/unique_Arrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_DateTime/LocalDate_Practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/OfficeHours/OfficeHours.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/OfficeHours/Practice_04_08_2020$practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/OfficeHours/Practice_04_08_2020.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Practice_Repl/it/Recalldeneme1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Practice_Repl/it/Recalldeneme2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Practice_Repl/it/SingleIfStat_Pra.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Resources/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Resources/Library.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day25_MethodsRecap/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day25_MethodsRecap/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OfficeHours/OfficeHours.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_04_08_2020.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice_Repl/it/Recalldeneme1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice_Repl/it/Recalldeneme2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice_Repl/it/SingleIfStat_Pra.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resources/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day25_MethodsRecap/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day25_MethodsRecap/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587531835976</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hello git!">
+      <created>1587673181851</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587673181852</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,9 +236,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="318" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824/1920.0.1600.900/-120.1080.2160.1080@0.0.1536.824" timestamp="1587579597151" />
-    <state x="395" y="3" key="CommitChangelistDialog2" timestamp="1587531835546">
+    <state x="395" y="3" key="CommitChangelistDialog2" timestamp="1587673180775">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="395" y="3" key="CommitChangelistDialog2/0.0.1536.824/-1680.28.1680.1050/460.1080.1000.504@0.0.1536.824" timestamp="1587673180775" />
     <state x="395" y="3" key="CommitChangelistDialog2/0.0.1536.824/460.1080.1000.504/1920.0.1600.900@0.0.1536.824" timestamp="1587531835546" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1587531973682">
       <screen x="0" y="0" width="1536" height="824" />
