@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e90e8854-04a5-4dc1-a89d-b3232a24411a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/OfficeHours/Practice_04_22_2020/ClassNote.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/OfficeHours/Practice_04_22_2020/methodOverloading.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/OfficeHours/Practice_04_22_2020/return_Method.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/OfficeHours/Practice_04_22_2020/return_Statement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/OfficeHours/Practice_04_22_2020/return_method2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/OfficeHours/Practice_04_22_2020/void_Method.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day27_DateTime/Dates.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day27_DateTime/Dates_Formatting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day27_DateTime/Find_Minimum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day27_DateTime/unique_Arrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28_DateTime/LocalDate_Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e90e8854-04a5-4dc1-a89d-b3232a24411a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +51,7 @@
       <recent name="C:\Users\undoc\IdeaProjects\Spring2020B18_Java\src\OfficeHours\Fatih" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Dates_Formatting">
+  <component name="RunManager" selected="Application.LocalDate_Practice">
     <configuration name="Dates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day27_DateTime.Dates" />
       <module name="Spring2020B18_Java" />
@@ -104,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="methodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OfficeHours.Practice_04_22_2020.methodOverloading" />
+    <configuration name="LocalDate_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28_DateTime.LocalDate_Practice" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OfficeHours.Practice_04_22_2020.*" />
+          <option name="PATTERN" value="day28_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LocalDate_Practice" />
         <item itemvalue="Application.Dates_Formatting" />
         <item itemvalue="Application.Dates" />
         <item itemvalue="Application.unique_Arrays" />
         <item itemvalue="Application.Find_Minimum" />
-        <item itemvalue="Application.methodOverloading" />
       </list>
     </recent_temporary>
   </component>
